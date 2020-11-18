@@ -13,6 +13,8 @@ class APIResponse<T> {
       status: item['status'],
       result: item['result'],
       hasErrors: item['hasErrors'],
+      //messages: item['messages'].toString(),
     );
   }
 }
+

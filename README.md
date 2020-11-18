@@ -1,16 +1,47 @@
-# personal_safety
+# Personal Safety
 
-A new Flutter application.
+Rescuer Part :https://github.com/omarelleboudy/PersonalSafety-Rescue
 
-## Getting Started
+Nurse Part: https://github.com/omarsaleh1997/PersonalSafety-Nurse
 
-This project is a starting point for a Flutter application.
+Backend: https://personalsafety.azurewebsites.net/
 
-A few resources to get you started if this is your first Flutter project:
+Backend Code: https://github.com/bfahm/PersonalSafety
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# What this project is about:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This was the Mobile Application part our graduation project for the year 2020.
+
+The whole project is a Location-based Emergency System, where a user makes an SOS Request or gets help from fellow users on the application.
+
+The whole idea is to automate the current Emergency System and allow other users to help each other when possible.
+
+# Screenshots:
+
+<img src="/Overview-Images/logout.jpg" width="300"/>               <img src="Overview-Images/profile.jpg" width="300"/> 
+
+<img src="/Overview-Images/home.jpg" width="300"/>               <img src="Overview-Images/map.jpg" width="300"/>
+
+<img src="/Overview-Images/events.jpg" width="600"/>
+
+<img src="Overview-Images/history1.jpg" width="300"/>               <img src="Overview-Images/history2.jpg" width="300"/>  
+
+<img src="Overview-Images/search.jpg" width="300"/>               <img src="Overview-Images/accept.jpg" width="300"/>  
+
+<img src="Overview-Images/rate.jpg" width="300"/>               <img src="Overview-Images/notification.jpg" width="300"/>  
+
+
+## To Install this project:
+
+This is a Flutter Application, so Flutter is required: https://flutter.dev/docs/get-started/install
+
+Simply clone or download this repository, open it in your IDE and get all dependencies then install it on Emulator or Real Device. This has only been tested on Android 9 devices, may not work on other versions. 
+
+
+## Overview of the Application:
+https://drive.google.com/file/d/1-9lXS9KV92e3gQsaFiihfchLghSE1vxO/view?usp=drivesdk
+
+## DEMO: 
+https://drive.google.com/drive/folders/100VTy1obQ40mTmfhA5b2nAV1z6b1femp?usp=sharing
+
+
