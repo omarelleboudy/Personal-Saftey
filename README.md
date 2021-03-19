@@ -6,7 +6,6 @@ Nurse Part: https://github.com/omarsaleh1997/PersonalSafety-Nurse
 
 Backend: https://personalsafety.azurewebsites.net/
 
-Backend Code: https://github.com/bfahm/PersonalSafety
 
 # What this project is about:
 
